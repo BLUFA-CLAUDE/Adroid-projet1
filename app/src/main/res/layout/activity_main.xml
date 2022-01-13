@@ -32,6 +32,17 @@
         android:layout_height="wrap_content"/>
 
     <Button
+        android:id="@+id/btnConnect"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/blue_sky"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/connect"/>
+
+    <Button
         android:id="@+id/btnSignUp"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
@@ -40,6 +51,7 @@
         android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Sign Up"/>
+        android:text="@string/sign_up"/>
+
 
 </LinearLayout>

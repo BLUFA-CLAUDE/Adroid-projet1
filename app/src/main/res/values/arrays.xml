@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="table_formation">
+        <item>DITI</item>
+        <item>GL</item>
+        <item>RT</item>
+        <item>GDA</item>
+        <item>IAGE</item>
+    </string-array>
+
+    <string-array name="detail_formation">
+        <item>JAVA, C#, Andoid, PHP, ORACLE</item>
+        <item>PYTHON, DEVOPS, ANGLAIS</item>
+        <item>CCNA, CCNP</item>
+        <item>java</item>
+        <item>SQL</item>
+    </string-array>
+</resources>
